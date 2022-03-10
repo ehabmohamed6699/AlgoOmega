@@ -137,6 +137,7 @@ footer p:first-of-type {
 footer p:last-of-type {
   color: #c2c2c2;
   font-size: 20px;
+  text-align: center;
 }
 
 footer div {
