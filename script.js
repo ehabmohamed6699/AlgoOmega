@@ -3,7 +3,7 @@ let soon = document.getElementsByClassName("soon");
 let videoSrc = [
   "./videos/Lecture 1 - Part 1.m4v",
   "./videos/Lecture 1 - Part 2.m4v",
-  "./videos/Lecture 1 - Part 2.m4v",
+  "./videos/Lecture 2 - Part 1.m4v"
 ];
 
 for (let i = 0; i < boxes.length; i++) {
