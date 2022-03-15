@@ -7,6 +7,7 @@ let videoSrc = [
   "./videos/Recursion.m4v",
   "./videos/Master Method.m4v",
   "./videos/Lecture 3 - Part 1.mp4",
+  "./videos/Lecture 3 - Part 2.mp4",
 ];
 
 for (let i = 0; i < boxes.length; i++) {
