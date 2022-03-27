@@ -10,6 +10,7 @@ let videoSrc = [
   "./videos/Lecture 3 - Part 2.m4v",
   "./videos/Lecture 4 - Part 1.m4v",
   "./videos/Lecture 4 - Part 2.m4v",
+  "./videos/Lecture 5 - Part 1.m4v",
 ];
 
 for (let i = 0; i < boxes.length; i++) {
